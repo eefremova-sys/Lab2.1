@@ -1,0 +1,6 @@
+site_name: llizzkh - Elizaveta Khan
+
+nav:
+  - Главная: index.md
+  - О проекте: about.md
+  - Результаты: results.md
